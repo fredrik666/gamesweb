@@ -1,0 +1,57 @@
+body {
+    background-color: aquamarine;
+}
+
+.contact {
+    background-color: lightgrey;
+}
+
+footer {        /* styling for the footer */
+    background-color: lightblue;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.head {          /* styling for the header */
+    background-color: lightgreen;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+h1, h2 {        /* styling for headers */
+    font-family: 'Helvetica Neue', sans-serif;
+    color: darkblue;
+}
+p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+}
+
+a {             /* styling for anchor tags */
+    color: darkred;
+    text-decoration: none;
+    padding: 5px; /* makes a bigger clickable area */
+}
+
+a:hover {       /* hover effect for anchor tags */
+    text-decoration: underline;
+}
+
+.about {
+    background-color: lightsalmon;
+}
+.Games {
+    background-color: lightslategray;
+}
